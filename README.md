@@ -2,11 +2,11 @@
 
 
 
-🌐 ADARI AJAY KUMAR – Portfolio Website
+<p>🌐 ADARI AJAY KUMAR – Portfolio Website
 A simple and responsive personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap 5.
-This portfolio showcases my skills, projects, and contact information in a clean and modern design.
+This portfolio showcases my skills, projects, and contact information in a clean and modern design.</p>
 
-
+<p>
 📌 Features
 ✅ Responsive Navigation Bar
 ✅ Hero Section with Social Media Links
@@ -16,10 +16,10 @@ This portfolio showcases my skills, projects, and contact information in a clean
 ✅ Contact Form
 ✅ Smooth Scrolling
 ✅ Bootstrap 5 Design
+</p>
 
 
-
-
+<p>
 🛠️ Technologies Used
 HTML5
 CSS3
@@ -27,7 +27,7 @@ JavaScript
 Bootstrap 5
 Bootstrap Icons
 📂 Project Structure
-Copy code
+</p>
 
 portfolio/
 │
